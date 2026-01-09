@@ -4,4 +4,8 @@ Desenvolvimento de um Sistema Interno de Cadastro de Usuários, onde o sistema p
 ETAPA 1:
 - A tecnologia escolhida foi JavaScript e SQL (para as etapas 2, 4 e 5), com o objetivo de Listagem de Usuários, Edição e Exclusão.
 - O projeto roda seguindo o passo a passo:
-  - A
+  1. Clonar o código no GitHub
+  2. Escrever o comando "npm install"
+  3. Configurar o arquivo ".env"
+  4. Iniciar o servidor com "npm start"
+  5. Acessar a aplicação pelo navegador em 
