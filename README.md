@@ -3,6 +3,5 @@ Desenvolvimento de um Sistema Interno de Cadastro de Usuários, onde o sistema p
 
 ETAPA 1:
 - A tecnologia escolhida foi JavaScript e SQL (para as etapas 2, 4 e 5), com o objetivo de Listagem de Usuários, Edição e Exclusão.
-1. O projeto roda seguindo o passo a passo: 
-1. 
-+ 
+- O projeto roda seguindo o passo a passo:
+-  A
