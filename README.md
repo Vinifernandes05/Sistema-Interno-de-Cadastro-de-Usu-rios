@@ -1,4 +1,4 @@
-<img width="1388" height="145" alt="{E33F6D1E-4027-48C1-84D9-2A80A6153C03}" src="https://github.com/user-attachments/assets/d6128917-22d1-44a8-99c2-500c2227c20c" /># Sistema Interno de Cadastro de Usuários
+# Sistema Interno de Cadastro de Usuários
 Este projeto consiste em um sistema interno de cadastro de usuários desenvolvido em JavaScript (Node.js). O sistema permite cadastrar, listar, editar e excluir usuários, armazenando os dados em um arquivo JSON local. O endereço do usuário (Rua, Bairro, Cidade e Estado) é preenchido automaticamente a partir do CEP informado, utilizando a API pública "ViaCEP".
 
 ## Tecnologias Utilizadas
