@@ -21,13 +21,16 @@ Sistema-Interno-de-Cadastro-de-Usuarios/
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
+1. Instalar o Node.js:
+   <https://nodejs.org/pt-br>
+   
+2. Clonar o repositório:
    git clone <link-do-repositorio>
 
-2. Acesse a pasta do projeto:
+3. Acessar a pasta do projeto:
    cd Sistema-Interno-de-Cadastro-de-Usuarios
 
-3. Execute o sistema:
+4. Executar o sistema:
    Abra o terminal e digite "node Campos_usuarios.js"
 
 ## API Utilizada
