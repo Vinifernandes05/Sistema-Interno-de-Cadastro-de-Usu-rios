@@ -4,9 +4,8 @@ Este projeto consiste em um sistema interno de cadastro de usuários desenvolvid
 ## Tecnologias Utilizadas
 
 - JavaScript (Node.js)
-- Módulo nativo `fs` (File System)
-- API pública ViaCEP
 - JSON para persistência de dados
+- API pública ViaCEP
 
 ## Estrutura do Projeto
 
